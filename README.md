@@ -1,10 +1,10 @@
 # Python Tic-Tac-Toe V1.1
 
-###Currently:
+### Currently:
   - ~~Simple, functional program to play Tic-Tac-Toe~~ (V1.0)
   - Object Oriented Tic-Tac-Toe program (V1.1)
 
-###To be implemented:
+### To be implemented:
   - ~~Convert to object-oriented program~~
   - AI to control player two
   - Customizable board size and support for >3x3 boards
